@@ -1,6 +1,4 @@
-# Basic Reason Template
 
-Hello! This project allows you to quickly get started with ReScript using Reason syntax. If you wanted a more sophisticated version, try the `react` template (`bsb -theme react -init .`).
 
 # Build
 
